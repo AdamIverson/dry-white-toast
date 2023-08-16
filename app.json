@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "dry-white-toast",
+    "scheme": "dry-white-toast",
     "slug": "dry-white-toast",
     "version": "1.0.0",
     "orientation": "portrait",
